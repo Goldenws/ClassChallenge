@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\bin\Debug\netcoreapp3.1\HamsterLifeCycle.exe
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\bin\Debug\netcoreapp3.1\HamsterLifeCycle.deps.json
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\bin\Debug\netcoreapp3.1\HamsterLifeCycle.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\bin\Debug\netcoreapp3.1\HamsterLifeCycle.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\bin\Debug\netcoreapp3.1\HamsterLifeCycle.dll
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\bin\Debug\netcoreapp3.1\HamsterLifeCycle.pdb
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\obj\Debug\netcoreapp3.1\HamsterLifeCycle.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\obj\Debug\netcoreapp3.1\HamsterLifeCycle.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\obj\Debug\netcoreapp3.1\HamsterLifeCycle.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\obj\Debug\netcoreapp3.1\HamsterLifeCycle.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\obj\Debug\netcoreapp3.1\HamsterLifeCycle.dll
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\obj\Debug\netcoreapp3.1\HamsterLifeCycle.pdb
+C:\Users\Roland Strod\source\repos\ClassChallenges\HamsterLifeCycle\obj\Debug\netcoreapp3.1\HamsterLifeCycle.genruntimeconfig.cache

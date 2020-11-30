@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\bin\Debug\netcoreapp3.1\ClassChallenges.exe
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\bin\Debug\netcoreapp3.1\ClassChallenges.deps.json
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\bin\Debug\netcoreapp3.1\ClassChallenges.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\bin\Debug\netcoreapp3.1\ClassChallenges.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\bin\Debug\netcoreapp3.1\ClassChallenges.dll
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\bin\Debug\netcoreapp3.1\ClassChallenges.pdb
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\obj\Debug\netcoreapp3.1\ClassChallenges.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\obj\Debug\netcoreapp3.1\ClassChallenges.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\obj\Debug\netcoreapp3.1\ClassChallenges.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\obj\Debug\netcoreapp3.1\ClassChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\obj\Debug\netcoreapp3.1\ClassChallenges.dll
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\obj\Debug\netcoreapp3.1\ClassChallenges.pdb
+C:\Users\Roland Strod\source\repos\ClassChallenges\ClassChallenges\obj\Debug\netcoreapp3.1\ClassChallenges.genruntimeconfig.cache
